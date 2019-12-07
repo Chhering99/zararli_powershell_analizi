@@ -1,8 +1,17 @@
 # Zararlı Powershell Analizi - 2019-2020 Bitirme Projesi
 
-- Projenin yapım aşamalarında kullanılan belgeler, kaynak kodları ve kaynakça bilgileri bu repo üzerinde depolanacaktır.
+Projenin yapım aşamalarında kullanılan belgeler, kaynak kodları ve kaynakça bilgileri bu repo üzerinde depolanacaktır.
 
-# Kullanılan Başlıca Web Kaynakları
+## Bu Alanda Yapılan Benzer Çalışmalar
+- https://github.com/PowerShellMafia/PowerSploit
+- https://github.com/samratashok/nishang
+- https://github.com/1RicardoTavares/Offensive-PowerShell
+- https://github.com/besimorhino/powercat
+- https://github.com/jaredhaight/PSAttackBuildTool
+- https://github.com/EmpireProject/Empire
+
+
+## Kullanılan Başlıca Web Kaynakları
 - https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/increased-use-of-powershell-in-attacks-16-en.pdf 
 - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/?view=powershell-7
 - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-7
@@ -25,3 +34,6 @@
 - https://www.blackhat.com/docs/us-17/thursday/us-17-Bohannon-Revoke-Obfuscation-PowerShell-Obfuscation-Detection-And%20Evasion-Using-Science-wp.pdf
 - https://www.analyticsvidhya.com/blog/2019/05/using-power-deep-learning-cyber-security-2/
 - https://arxiv.org/pdf/1904.10270.pdf
+
+## Yapılan Başvurular
+- TÜBİTAK 2209/A
