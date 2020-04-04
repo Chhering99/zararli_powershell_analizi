@@ -36,4 +36,4 @@ Projenin yapım aşamalarında kullanılan belgeler, kaynak kodları ve kaynakç
 - https://arxiv.org/pdf/1904.10270.pdf
 
 ## Yapılan Başvurular
-- TÜBİTAK 2209/A
+- TÜBİTAK 2209/A | Proje teşvik almaya hak kazandı. 03/2020
